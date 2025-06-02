@@ -1,0 +1,25 @@
+# 🐍 Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+# 📦 Entornos virtuales
+env/
+venv/
+
+# 🧪 Archivos temporales o de logs
+*.log
+*.tmp
+
+# ⚙️ Configuración del entorno de desarrollo
+.vscode/
+.idea/
+
+# 🛠️ Archivos ejecutables generados
+*.exe
+
+# 🖥️ Archivos del sistema (Mac / Windows)
+.DS_Store
+Thumbs.db
