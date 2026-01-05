@@ -11,7 +11,7 @@ Aplicación gráfica en Python que permite **escanear redes Wi-Fi guardadas en W
 
 ---
 
-![Social Preview](images 2/Preview.png)
+![Social Preview](https://raw.githubusercontent.com/Pablitus666/WiFi---Report/main/images%202/Preview.png)
 
 ---
 
