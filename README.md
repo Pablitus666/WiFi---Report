@@ -11,7 +11,7 @@ Aplicación gráfica en Python que permite **escanear redes Wi-Fi guardadas en W
 
 ---
 
-![Social Preview](images2/Preview.png)
+![Social Preview](images 2/Preview.png)
 
 ---
 
@@ -41,7 +41,7 @@ Aplicación gráfica en Python que permite **escanear redes Wi-Fi guardadas en W
 ## 📷 Capturas de pantalla
 
 <p align="center">
-  <img src="images2/screenshot.png?v=2" alt="Vista previa de la aplicación" width="600"/>
+  <img src="images 2/screenshot.png?v=2" alt="Vista previa de la aplicación" width="600"/>
 </p>
 
 ---
@@ -81,6 +81,8 @@ Copiar código
 Redes encontradas: 12
 (Este dato se muestra en pantalla, no se guarda en el archivo)
 
+---
+
 🛠️ Tecnologías utilizadas
 Python 3
 
@@ -91,6 +93,8 @@ PIL (Pillow)
 netsh (Windows)
 
 ThreadPoolExecutor
+
+---
 
 📦 Empaquetado
 El ejecutable fue generado con:
@@ -103,14 +107,22 @@ Interfaz: GUI (sin consola)
 
 Tamaño final: 25 MB
 
+---
+
 ⚠️ Aviso legal
 Este software muestra contraseñas Wi-Fi almacenadas localmente en el sistema.
 Úselo únicamente en equipos de su propiedad o con autorización expresa.
+
+---
 
 👨‍💻 Autor
 Pablo Téllez A.
 📍 Tarija - Bolivia
 🗓️ 2024
 
+---
+
 ⭐ ¿Te gustó el proyecto?
 ¡No olvides dejar una estrella ⭐ en el repositorio!
+
+---
