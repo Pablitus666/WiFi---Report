@@ -1,7 +1,10 @@
 📦 WiFi Scanner v1.0.0 – First Stable Release
+---
 
 🎉 Primera versión estable del WiFi Scanner para Windows
 Aplicación gráfica desarrollada en Python que permite escanear redes Wi-Fi guardadas en el sistema, mostrar contraseñas disponibles y generar reportes profesionales en formato .txt.
+
+---
 
 ✨ Características principales
 
@@ -25,6 +28,8 @@ Aplicación gráfica desarrollada en Python que permite escanear redes Wi-Fi gua
 
 👨‍💻 Ventana de información del desarrollador
 
+---
+
 🖥️ Requisitos del sistema
 
 Sistema Operativo: Windows 10 / 11
@@ -32,6 +37,8 @@ Sistema Operativo: Windows 10 / 11
 Python: No requerido (incluido en el ejecutable)
 
 Permisos: Usuario con acceso a perfiles Wi-Fi del sistema
+
+---
 
 📄 Reporte generado
 
@@ -51,6 +58,8 @@ Firma del desarrollador
 
 ℹ️ La cantidad de redes encontradas se muestra en pantalla, pero no se guarda en el archivo.
 
+---
+
 📦 Empaquetado
 
 Herramienta: PyInstaller
@@ -63,16 +72,22 @@ Tamaño final: 25 MB
 
 Sin advertencias (warnings)
 
+---
+
 ⚠️ Aviso legal
 
 Este software accede a contraseñas Wi-Fi almacenadas localmente en el sistema.
 Utilícelo únicamente en equipos de su propiedad o con autorización expresa.
+
+---
 
 👨‍💻 Autor
 
 Pablo Téllez A.
 📍 Tarija – Bolivia
 🗓️ 2024
+
+---
 
 📥 Descarga
 
